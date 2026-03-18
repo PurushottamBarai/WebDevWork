@@ -1,6 +1,6 @@
 ### 1. Calculator
 A fully functional calculator with basic mathematical operations.
-- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/calculator/](https://purushottambarai.github.io/OIBSIP/calculator/)
+- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/calculator/](https://purushottambarai.github.io/WebDevWork/calculator/)
 - **Features:**
   - Basic operations (addition, subtraction, multiplication, division)
   - Advanced functions (square root, percentage, plus/minus)
@@ -11,7 +11,7 @@ A fully functional calculator with basic mathematical operations.
 
 ### 2. Tribute Page - Dr. APJ Abdul Kalam
 A tribute page dedicated to Dr. APJ Abdul Kalam, the Missile Man of India.
-- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/Tribute-page/](https://purushottambarai.github.io/OIBSIP/Tribute-page/)
+- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/Tribute-page/](https://purushottambarai.github.io/WebDevWork/Tribute-page/)
 - **Features:**
   - Biography section
   - Major achievements showcase
@@ -21,7 +21,7 @@ A tribute page dedicated to Dr. APJ Abdul Kalam, the Missile Man of India.
 
 ### 3. To-Do List Web App
 A task management application to organize daily tasks.
-- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/to-do-app/](https://purushottambarai.github.io/OIBSIP/to-do-app/)
+- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/to-do-app/](https://purushottambarai.github.io/WebDevWork/to-do-app/)
 - **Features:**
   - Add, edit, and delete tasks
   - Mark tasks as complete/incomplete
@@ -33,7 +33,7 @@ A task management application to organize daily tasks.
 
 ### 4. Login Authentication System
 A simple authentication system with user registration and login functionality.
-- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/Login-Auth/](https://purushottambarai.github.io/OIBSIP/Login-Auth/)
+- **Live Demo:** [https://purushottambarai.github.io/OIBSIP/Login-Auth/](https://purushottambarai.github.io/WebDevWork/Login-Auth/)
 - **Features:**
   - User registration with validation
   - Login authentication
