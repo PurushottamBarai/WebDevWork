@@ -1,9 +1,3 @@
-# OIBSIP - Oasis Infobyte Internship Projects
-
-This repository contains 4 web development projects completed during my internship at Oasis Infobyte.
-
-## Projects
-
 ### 1. Calculator
 A fully functional calculator with basic mathematical operations.
 - **Live Demo:** [https://purushottambarai.github.io/OIBSIP/calculator/](https://purushottambarai.github.io/OIBSIP/calculator/)
